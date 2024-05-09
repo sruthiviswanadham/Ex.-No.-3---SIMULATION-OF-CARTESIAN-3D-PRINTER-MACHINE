@@ -60,8 +60,11 @@
 
 ## Output:
 
-### Name: 
-### Register Number:
+![image](https://github.com/sruthiviswanadham/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/151760421/359dc872-64c4-4fca-98c5-85b3d54abd29)
+
+
+### Name: VISWANADHAM VENKATA SAI SRUTHI
+### Register Number: 212223100061
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
